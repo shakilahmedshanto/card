@@ -1,0 +1,17 @@
+.cardd{
+    display: flex;
+    
+
+}
+.portfolio h1{
+    font-family: cursive;
+    font-weight: 500;
+}
+.portfolio span{
+    color: chocolate;
+}
+
+i{
+    color: #6c757d;
+
+}
